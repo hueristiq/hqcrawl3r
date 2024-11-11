@@ -3,7 +3,7 @@ module github.com/hueristiq/xcrawl3r
 go 1.23.1
 
 require (
-	github.com/chromedp/chromedp v0.11.0
+	github.com/chromedp/chromedp v0.11.2
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/hueristiq/hq-go-http v0.0.0-20241020113552-532feebd5687
 	github.com/hueristiq/hq-go-url v0.0.0-20241020144539-a9e1f60005ea
@@ -19,7 +19,7 @@ require (
 	github.com/antchfx/htmlquery v1.3.3 // indirect
 	github.com/antchfx/xmlquery v1.4.2 // indirect
 	github.com/antchfx/xpath v1.3.2 // indirect
-	github.com/chromedp/cdproto v0.0.0-20241014181340-cb3a7a1d51d7 // indirect
+	github.com/chromedp/cdproto v0.0.0-20241022234722-4d5d5faf59fb // indirect
 	github.com/chromedp/sysutil v1.1.0 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
